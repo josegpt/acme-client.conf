@@ -1,0 +1,11 @@
+acme-client.conf
+================
+	acme-client config.
+
+usage
+-----
+	# acme-client -vF {josegpt.com,mtaveras.com,redhex.org,redhex.net,redhex.dev}
+
+depends on
+----------
+	* acme-client
