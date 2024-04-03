@@ -9,3 +9,7 @@ usage
 depends on
 ----------
 	* acme-client
+
+license
+-------
+	isc
